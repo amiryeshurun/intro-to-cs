@@ -41,6 +41,10 @@
 *.su
 *.idb
 *.pdb
+*.tlog
+*.lastbuildstate
+*.log
+*.recipe
 
 # Kernel Module Compile Results
 *.mod*
