@@ -1,6 +1,6 @@
 #pragma once
 
-int sumDevisors(int num);
+int sumDivisors(int num);
 
 int isPerfect(int num);
 

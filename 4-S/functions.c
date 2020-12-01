@@ -1,6 +1,6 @@
 #include "functions.h"
 
-int sumDevisors(int num)
+int sumDivisors(int num)
 {
 	int i, sum = 0;
 	for (i = 1; i < num; i++)
@@ -14,7 +14,7 @@ int sumDevisors(int num)
 
 int isPerfect(int num)
 {
-	return num == sumDevisors(num);
+	return num == sumDivisors(num);
 }
 
 int numDigits(int num)
